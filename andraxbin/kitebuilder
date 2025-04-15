@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source /opt/ANDRAX/kitebuilder/bin/activate
+
+/opt/ANDRAX/kitebuilder/bin/python3 /opt/ANDRAX/kitebuilder/package/kitebuilder.py "$@"
